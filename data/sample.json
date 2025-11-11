@@ -1,0 +1,6 @@
+{
+    "followers": [
+        {"id": "user_id_1", "full_name": "User One", "username": "userone", "is_verified": true},
+        {"id": "user_id_2", "full_name": "User Two", "username": "usertwo", "is_verified": false}
+    ]
+}
